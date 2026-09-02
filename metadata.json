@@ -1,0 +1,6 @@
+{
+  "name": "Trip to World",
+  "description": "Bespoke holiday packages, multi-centre tours, and curated global travel experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
